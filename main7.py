@@ -1,3 +1,4 @@
+# Generate a captions.txt file containing the captions of all images present in the url https://en.wikipedia.org/wiki/IBM
 import requests
 from PIL import Image
 from io import BytesIO
